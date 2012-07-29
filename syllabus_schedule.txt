@@ -1,5 +1,7 @@
 For each class meeting, the schedule lists the reading to complete for that meeting, if any under the heading READ. This reading must be completed PRIOR TO the class meeting it is listed for. In addition, a brief summary of what to expect during each class meeting (discussion, class activities etc.) is listed under IN CLASS for each class meetings. Due dates and assignment announcements are listed in italics at the bottom of the listing for the nearest class meeting to the due date.
 
+TEST PUSH
+
 ### Week 1
 
 #### Monday August 27
