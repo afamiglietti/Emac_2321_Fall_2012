@@ -5,6 +5,8 @@ percentage of the total class grade each assignment is worth. Follow the
 link provided for a complete assignment description, including
 instructions and grading rubric.
 
+-   [Public Blog Proposal](http://copyvillain.org/blog/2321-public-blog-proposal)
+    Before st
 -   [Public Blog
     ](http://copyvillain.org/blog/2321-group-blog-assignment/ "2321 Public Blog Assignment")
     (20%): During the second half of the semester, groups will write and

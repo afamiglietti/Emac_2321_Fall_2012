@@ -1,182 +1,198 @@
-For each class meeting, the schedule lists what you must complete prior to that meeting, if any under the heading BEFORE CLASS. In most cases, this will be reading, but it will often include short prepatory activities. A brief summary of what to expect during each class meeting (discussion, class activities etc.) is listed under IN CLASS for each class meetings. Finally, small assignments the student is expected to Due dates and assignment announcements are listed in italics at the bottom of the listing for the nearest class meeting to the due date.
+For each class meeting, the schedule lists what you must complete prior to that meeting, if any under the heading BEFORE CLASS. In most cases, this will be reading, but it will often include short prepatory activities. A brief summary of what to expect during each class meeting (discussion, class activities etc.) is listed under IN CLASS for each class meetings. Finally, small assignments are listed under HOMEWORK, with due dates. Due dates for major assignments are listed in **bold** at the bottom of the listing for the nearest class meeting to the due date.
+
+
 
 ### Week 1 Introductions
-
-#### Monday August 27
+#### Tuesday August 28
 BEFORE CLASS: None  
 IN CLASS: Icebreakers and Syllabus Review  
 HOMEWORK: Set up your Personal blog on Wordpress.com and a public twitter account for use in this class. Email a link to your blog and twitter account to the TA.  
 
-#### Wednesday August 29
+#### Thursday August 30
 BEFORE CLASS: Read "Introduction" in _Net Smart_ (pgs 1-33) AND come to class prepared with one question about New Media you would like to explore in this class.  
 IN CLASS: Discuss our questions about New Media, and how Rheingold's introduction addresses them. Develop a list of shared class goals.  
 HOMEWORK:
 
-### Unit 1 Before the Blog (Getting Ready)
-------
-### Week 2 Attention Managment 
-#### Monday September 03
-BEFORE CLASS:  
-IN CLASS:  
-HOMEWORK:  
 
-#### Wednesday September 05
-BEFORE CLASS:  
-IN CLASS:  
-HOMEWORK:
+### Week 2
+#### Tuesday September 04
+BEFORE CLASS: Read pgs 35-50 of _Net Smart_ and [The Myth of Monotasking](http://hastac.org/blogs/cathy-davidson/2011/11/26/myth-monotasking) by Cathy Davidson._Optional:_ Listen to Davidson's [podcast](http://blogs.hbr.org/ideacast/2011/11/the-myth-of-monotasking.html), which expands on her blog post.  
+IN CLASS: Attention Exercise and Discussion. What can we learn to pay more attention to attention?  
+HOMEWORK: Complete Part One of the [Attention Journal Exercise](FILL IN THIS URL, IDIOT) prior to 11:59pm Tuesday September 4.  
+
+
+#### Thursday September 06
+BEFORE CLASS: Read: pgs 50-75 of _Net Smart_  
+IN CLASS: Discuss tools and techniques for attention management online.   
+HOMEWORK: Complete Part Two of the [Attention Journal Exercise](FILL IN THIS URL, IDIOT) prior to 11:59pm Friday September 7.
+
 
 ### Week 3
-#### Monday September 10
-BEFORE CLASS:  
+#### Tuesday September 11
+BEFORE CLASS:   
 IN CLASS:  
 HOMEWORK:
 
-#### Wednesday September 12
-BEFORE CLASS:  
+#### Thursday September 13
+BEFORE CLASS:   
 IN CLASS:  
 HOMEWORK:
 
 ### Week 4
-#### Monday September 17
-BEFORE CLASS:  
+#### Tuesday September 18
+BEFORE CLASS:   
 IN CLASS:  
 HOMEWORK:
 
-#### Wednesday September 19
-BEFORE CLASS:  
+#### Thursday September 20
+BEFORE CLASS:   
 IN CLASS:  
 HOMEWORK:
 
 
-## Unit 2 Blogging 
+**Blog Proposals Are Due by 11:59pm Friday, September 21**
+
+##Unit Two
 -----
 ### Week 5
-#### Monday September 24
-BEFORE CLASS:  
+#### Tuesday September 25
+BEFORE CLASS:   
 IN CLASS:  
 HOMEWORK:
 
-#### Wednesday September 26
-BEFORE CLASS:  
+#### Thursday September 27
+BEFORE CLASS:   
 IN CLASS:  
 HOMEWORK:
 
 ### Week 6
-#### Monday October 01
-BEFORE CLASS:  
+#### Tuesday October 02
+BEFORE CLASS:   
 IN CLASS:  
 HOMEWORK:
 
-#### Wednesday October 03
-BEFORE CLASS:  
+
+#### Thursday October 04
+BEFORE CLASS:   
 IN CLASS:  
 HOMEWORK:
+
 
 ### Week 7
-#### Monday October 08
-BEFORE CLASS:  
+#### Tuesday October 09
+BEFORE CLASS:   
 IN CLASS:  
 HOMEWORK:
 
-#### Wednesday October 10 
-BEFORE CLASS:  
+
+#### Thursday October 11
+BEFORE CLASS:   
 IN CLASS:  
 HOMEWORK:
+
 
 ### Week 8
-#### Monday October 15
-BEFORE CLASS:  
+#### Tuesday October 16
+BEFORE CLASS:   
 IN CLASS:  
 HOMEWORK:
 
-#### Wednesday October 17
-BEFORE CLASS:  
+#### Thursday October 18
+BEFORE CLASS:   
 IN CLASS:  
 HOMEWORK:
+
 
 ### Week 9
-#### Monday October 22
-BEFORE CLASS:  
+#### Tuesday October 23
+BEFORE CLASS:   
 IN CLASS:  
 HOMEWORK:
 
 
-#### Wednesday October 24
-BEFORE CLASS:  
+#### Thursday October 25
+BEFORE CLASS:   
 IN CLASS:  
 HOMEWORK:
+
 
 ### Week 10
-#### Monday October 29
-BEFORE CLASS:  
+#### Tuesday October 30
+BEFORE CLASS:   
 IN CLASS:  
 HOMEWORK:
 
-#### Wednesday October 31
-BEFORE CLASS:  
+
+#### Thursday November 01
+BEFORE CLASS:   
 IN CLASS:  
 HOMEWORK:
+
 
 ### Week 11
-#### Monday November 05
-BEFORE CLASS:  
+#### Tuesday November 06
+BEFORE CLASS:   
 IN CLASS:  
 HOMEWORK:
 
-#### Wednesday November 07
-BEFORE CLASS:  
+
+#### Thursday November 08
+BEFORE CLASS:   
 IN CLASS:  
 HOMEWORK:
+
 
 ## Unit 3: Building off the Blog 
 -----
 ### Week 12
-#### Monday November 12
-BEFORE CLASS:  
+#### Tuesday November 13
+BEFORE CLASS:   
 IN CLASS:  
 HOMEWORK:
 
-#### Wednesday November 14
-BEFORE CLASS:  
+
+#### Thursday November 15
+BEFORE CLASS:   
 IN CLASS:  
 HOMEWORK:
 
-### Week 13
-#### Monday November 19
-BEFORE CLASS:  
-IN CLASS:  
-HOMEWORK:
 
-#### Wednesday November 21
-BEFORE CLASS:  
-IN CLASS:  
-HOMEWORK:
+### Week 13 THANKSGIVING BREAK! NO CLASS!!!
+#### Tuesday November 20
+NO CLASS
+
+#### Thursday November 22
+NO CLASS! ENJOY YOUR HOLIDAY!
 
 ### Week 14
-#### Monday November 26
-BEFORE CLASS:  
+#### Tuesday November 27
+BEFORE CLASS:   
 IN CLASS:  
 HOMEWORK:
 
-#### Wednesday November 28
-BEFORE CLASS:  
+
+#### Thursday November 29
+BEFORE CLASS:   
 IN CLASS:  
 HOMEWORK:
 
-### Week 15 Presentation Prep and Presentations
-#### Monday December 03
-BEFORE CLASS:  
+
+### Week 15
+#### Tuesday December 04
+BEFORE CLASS:   
 IN CLASS:  
 HOMEWORK:
 
-#### Wednesday December 05
-BEFORE CLASS:  
+
+#### Thursday December 06
+BEFORE CLASS:   
 IN CLASS:  
 HOMEWORK:
 
-### Week 16 Presentations and Final Thoughts 
-#### Monday December 10
-BEFORE CLASS:  
+
+### Week 16
+#### Tuesday December 11
+BEFORE CLASS:   
 IN CLASS:  
 HOMEWORK:
 
