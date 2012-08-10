@@ -8,7 +8,7 @@ instructions and grading rubric.
 -   [Public Blog Proposal](http://copyvillain.org/blog/2321-public-blog-proposal)
     Before st
 -   [Public Blog
-    ](http://copyvillain.org/blog/2321-group-blog-assignment/ "2321 Public Blog Assignment")
+    ](http://copyvillain.org/blog/2321-public-blog-assignment/ "2321 Public Blog Assignment")
     (20%): During the second half of the semester, groups will write and
     publish a blog on a topic of their own choosing!
 -   [Before Class Exercises and Homework](http://copyvillain.org/blog/2321-homework-and-exercises)(10%):
