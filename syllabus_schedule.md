@@ -5,7 +5,7 @@ For each class meeting, the schedule lists what you must complete prior to that 
 ### Week 1 Introductions
 #### Tuesday August 28
 BEFORE CLASS: None  
-IN CLASS: Icebreakers and Syllabus Review. Introduction to key assignments, especially the [Public Blog](http://copyvillain.org/blog/2321-public-blog-assignment/ "2321 Public Blog Assignment") and [Reflection Blog](http://copyvillain.org/blog/2321-reflection-blog-assignment/ "2321 Reflection Blog Assignment").   
+IN CLASS: Icebreakers and Syllabus Review. Introduction to key assignments, especially the [Public Blog](http://copyvillain.org/blog/2321-public-blog-assignment/ "2321 Public Blog Assignment") and [Reflection Essays](http://copyvillain.org/blog/2321-reflection-blog-assignment/ "2321 Reflection Blog Assignment").   
 HOMEWORK: Set up your Personal blog on Wordpress.com and a public twitter account for use in this class. Email a link to your blog and twitter account to the TA. [Day One Preparation Assignment](URL FOR GIANT FIRST DAY PREP ASSIGNMENT)
 
 #### Thursday August 30

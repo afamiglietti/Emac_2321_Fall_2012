@@ -1,14 +1,3 @@
-[CopyVillain](http://copyvillain.org/blog/)
-===========================================
-
-Free Software, Free Culture, and the Humanities
-
-[EMAC 2321 Course Policies](http://copyvillain.org/blog/emac-2012-course-policies/)
------------------------------------------------------------------------------------
-
-[without
-comments](http://copyvillain.org/blog/emac-2012-course-policies/#comments)
-
 All students should familiarize themselves with official UTD course
 policies, as[listed on the provost’s
 website](http://provost.utdallas.edu/syllabus-policies/). In particular,
@@ -31,7 +20,7 @@ from the instructor and your classmates as you encounter difficulties
 you can’t resolve on your own. You will not be penalized for having
 difficulties!
 
-Furthermore, the major class project, the group blog project, will also
+Furthermore, the major class project, the public blog project, will also
 require boldness on the part of students. For many stages of the blog
 project, I will give detailed instructions on how to complete necessary
 work. However, as the project goes on and the blog becomes your own, you
@@ -108,52 +97,3 @@ accessible assignments. These students may choose to participate in
 public assignments under a pseudonym, or assumed name. If you wish to
 request this accommodation for any reason, please contact me
 immediately.
-
-Written by Andy
-
-January 15th, 2012 at 8:54 pm
-
-Posted in
-
-### Leave a Reply
-
-Name (required)
-
-Mail (will not be published) (required)
-
-Website
-
-Notify me of follow-up comments by email.
-
-Notify me of new posts by email.
-
-### Site Content
-
--   [Welcome](http://copyvillain.org/blog/)
--   [Latest Blog Posts](http://copyvillain.org/blog/latest-blog-posts/)
--   [Teaching](http://copyvillain.org/blog/teaching/)
--   [Research](http://copyvillain.org/blog/research/)
--   [Projects](http://copyvillain.org/blog/projects/)
--   [Spring 2012 Contact
-    Information](http://copyvillain.org/blog/spring-2012-contact-information/)
-
-### Meta
-
--   [Log in](http://copyvillain.org/blog/wp-login.php)
--   [Entries
-    RSS](http://copyvillain.org/blog/feed/ "Syndicate this site using RSS 2.0")
--   [Comments
-    RSS](http://copyvillain.org/blog/comments/feed/ "The latest comments to all posts in RSS")
--   [WordPress.org](http://wordpress.org/ "Powered by WordPress, state-of-the-art semantic personal publishing platform.")
-
-### Creative Commons
-
-[![Creative Commons
-License](http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/3.0/)\
-Copyvillain by
-[http://copyvillain.org/blog](http://copyvillain.org/blog) is licensed
-under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0
-Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
-
-The Journalist template by [Lucian E. Marin](http://lucianmarin.com/) —
-Built for [WordPress](http://wordpress.org/)
